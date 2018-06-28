@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Linux_Debug" />
+	<File name="AppFloodPuzz.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="616" topLine="11" />
+	</File>
+	<File name="CtxGame.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="4128" topLine="127" />
+	</File>
+	<File name="CtxGame.h" open="0" top="0" tabpos="1">
+		<Cursor position="193" topLine="7" />
+	</File>
+	<File name="CtxScore.h" open="0" top="0" tabpos="2">
+		<Cursor position="197" topLine="0" />
+	</File>
+	<File name="CtxTitle.h" open="0" top="0" tabpos="3">
+		<Cursor position="197" topLine="0" />
+	</File>
+	<File name="dakiilib/dfc/dfcContext.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="123" />
+	</File>
+	<File name="dakiilib/dfc/dfcEntity.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="57" />
+	</File>
+	<File name="dakiilib/dfc/dfcObj.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="51" />
+	</File>
+	<File name="dakiilib/lib/libMngResIO.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2503" topLine="99" />
+	</File>
+	<File name="dakiilib/lib/linux/libMngGraphic_linux.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="10178" topLine="13" />
+	</File>
+	<File name="dakiilib/lib/linux/libMngGraphic_linux.h" open="0" top="0" tabpos="2">
+		<Cursor position="2168" topLine="27" />
+	</File>
+</CodeBlocks_layout_file>

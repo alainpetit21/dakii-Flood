@@ -1,0 +1,19 @@
+<CONTEXT>
+	<NB_OBJECTS>2</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CBackground</TYPE>
+		<ID>BkFloodPuzz</ID>
+		<FILENAME>BkFloodPuzz02.background</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>0</POS_Z>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CEntity</TYPE>
+		<ID>EntCursor</ID>
+		<FILENAME>EntCursor.entity</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>0</POS_Z>
+	</OBJECT>
+</CONTEXT>
